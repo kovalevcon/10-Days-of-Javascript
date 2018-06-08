@@ -6,5 +6,4 @@ function greeting(parameterVariable) {
     console.log(parameterVariable);
 }
 
-document.write('Task: Day 0: Hello, World<br>');
 greeting('Welcome to 10 Days of JavaScript!');

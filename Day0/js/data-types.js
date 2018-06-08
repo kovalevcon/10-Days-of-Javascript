@@ -21,5 +21,4 @@ function performOperation(secondInteger, secondDecimal, secondString) {
   console.log(firstString + secondString);
 }
 
-document.write('Task: Day 0: Data Types<br>');
 performOperation(12, 4.32, 'is the best place to learn and practice coding!');
