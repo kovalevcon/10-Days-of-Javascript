@@ -1,0 +1,9 @@
+.divButtons {
+    width: 20%;
+}
+
+.divButtons > .button {
+    width: 30%;
+    height: 48px;
+    font-size: 24px;
+}
