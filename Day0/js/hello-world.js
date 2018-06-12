@@ -6,4 +6,6 @@ function greeting(parameterVariable) {
     console.log(parameterVariable);
 }
 
+console.log('Task: Hello, World');
 greeting('Welcome to 10 Days of JavaScript!');
+console.log('**************************');
