@@ -6,6 +6,8 @@ function greeting(parameterVariable) {
     console.log(parameterVariable);
 }
 
+const text = 'Welcome to 10 Days of JavaScript!';
 console.log('Task: Hello, World');
-greeting('Welcome to 10 Days of JavaScript!');
+console.log(`Input value: ${text}`);
+greeting(text);
 console.log('**************************');

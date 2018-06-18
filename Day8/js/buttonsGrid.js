@@ -5,8 +5,7 @@ function createButtons() {
   div.className = 'divButtons';
 
   for (let i = 1; i < 10; i++) {
-    let btn;
-    btn = document.createElement('button');
+    let btn = document.createElement('button');
     btn.id = 'btn' + i;
     btn.innerText = i;
     btn.className = 'button';
@@ -25,8 +24,8 @@ class Rotate {
   }
 
   setInnerText() {
-    let [btn1, btn2, btn3, btn6, btn9, btn8, btn7, btn4] = this.buttonInners;
-    let startPosition = {btn1, btn2, btn3, btn6, btn9, btn8, btn7, btn4};
+    const [btn1, btn2, btn3, btn6, btn9, btn8, btn7, btn4] = this.buttonInners;
+    const startPosition = {btn1, btn2, btn3, btn6, btn9, btn8, btn7, btn4};
 
     for (let key in startPosition) {
       document.getElementById(key).innerText = startPosition[key];

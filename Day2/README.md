@@ -1,4 +1,4 @@
-# Day2 - 10-Days-of-Javascript
+# 10 Days of Javascript - Day 2
 
 To view solutions, open the file `/Day2/index.html` in your browser.
 Do not forget to open the Developer panel and see the section `Console`.
@@ -35,3 +35,18 @@ English alphabetic letters (i.e., a through `z`). It must return A, B, C, or D d
 **Solution**:
 
 In `js/switch.js`.
+
+##Day 2: Loops
+
+**Task**:
+
+Complete the vowelsAndConsonants function in the editor below. It has one parameter, a string, `s`, consisting
+of lowercase English alphabetic letters (i.e., a through `z`). The function must do the following:
+
+1. First, print each vowel in on a new line. The English vowels are `a, e, i, o,` and `u`, and each vowel must be 
+printed in the same order as it appeared in `s`.
+2. Second, print each consonant (i.e., non-vowel) in on a new line in the same order as it appeared in `s`.
+
+**Solution**:
+
+In `js/loops.js`.

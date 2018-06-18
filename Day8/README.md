@@ -1,4 +1,4 @@
-# Day8 - 10 Days of Javascript
+# 10 Days of Javascript - Day8
 
 To view solutions, open the file `/Day8/index.html` in your browser.
 

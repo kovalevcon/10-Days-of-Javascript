@@ -32,6 +32,9 @@ function getLetter(s) {
 
   return letter;
 }
+
+const switchStr = 'adfgt';
 console.log('Task: Conditional Statements: Switch');
-console.log(getLetter('adfgt'));
+console.log(`Input value:[${switchStr}]`);
+console.log(getLetter(switchStr));
 console.log('**************************');

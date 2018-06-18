@@ -21,6 +21,8 @@ function performOperation(secondInteger, secondDecimal, secondString) {
   console.log(firstString + secondString);
 }
 
+const inputs = [12, 4.32, 'is the best place to learn and practice coding!'];
 console.log('Task: Data Types');
-performOperation(12, 4.32, 'is the best place to learn and practice coding!');
+console.log(`Input value: ${inputs}`);
+performOperation(...inputs);
 console.log('**************************');

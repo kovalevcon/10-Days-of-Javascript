@@ -1,4 +1,4 @@
-# Day1 - 10-Days-of-Javascript
+# 10 Days of Javascript - Day 1
 
 To view solutions, open the file `/Day1/index.html` in your browser.
 Do not forget to open the Developer panel and see the section `Console`.
