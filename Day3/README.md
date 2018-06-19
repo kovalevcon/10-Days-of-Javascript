@@ -29,3 +29,22 @@ if an exception was thrown, this should be the original string.
 **Solution**:
 
 In `js/try-catch.js`.
+
+##Day 3: Throw
+
+**Task**:
+
+Complete the isPositive function below. It has one integer parameter, `a`. If the value of `a` is positive, it must
+return the string `YES`. Otherwise, it must throw an Error according to the following rules:
+
+* If `a` is `0`, throw an Error with `= Zero Error`.
+* If `a` is negative, throw an Error with `= Negative Error`.
+
+**Solution**:
+
+In `js/throw.js`.
+
+
+
+
+Return to [navigation list](/README.md "navigation list")

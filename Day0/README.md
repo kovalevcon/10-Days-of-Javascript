@@ -41,3 +41,5 @@ a new line using console.log.
 **Solution**:
 
 In `js/data-types.js`.
+
+Return to [navigation list](/README.md "navigation list")

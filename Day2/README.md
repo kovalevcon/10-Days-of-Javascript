@@ -50,3 +50,5 @@ printed in the same order as it appeared in `s`.
 **Solution**:
 
 In `js/loops.js`.
+
+Return to [navigation list](/README.md "navigation list")

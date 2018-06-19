@@ -98,3 +98,5 @@ the script tag to provide the JS file path:
 **Solution**:
 
 In `index.html` and `js/buttonsGrid.js`.
+
+Return to [navigation list](/README.md "navigation list")
