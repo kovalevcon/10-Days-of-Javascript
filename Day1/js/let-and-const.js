@@ -1,3 +1,5 @@
+// ********** Solution **********
+
 function main() {
   const PI = Math.PI;
 
@@ -21,10 +23,18 @@ function main() {
   }
 }
 
+// ********** End of Solution **********
+
+// ********** Test **********
+
 function readLine() {
   return 2.6;
 }
 
 console.log('Task: Let and Const');
+console.log(`Input value: r = ${readLine()}`);
+console.log('Result');
 console.log(main());
 console.log('**************************');
+
+// ********** End of Test **********

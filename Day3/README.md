@@ -45,6 +45,4 @@ return the string `YES`. Otherwise, it must throw an Error according to the foll
 In `js/throw.js`.
 
 
-
-
 Return to [navigation list](/README.md "navigation list")

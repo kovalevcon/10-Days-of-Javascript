@@ -1,3 +1,5 @@
+// ********** Solution **********
+
 function getGrade(score) {
   let grade;
   // Write your code here
@@ -18,8 +20,14 @@ function getGrade(score) {
   return grade;
 }
 
+// ********** End of Solution **********
+
+// ********** Test **********
+
 const grade = 11;
 console.log('Task: Conditional Statements: If-Else');
 console.log(`Input value:[${grade}]`);
-console.log(getGrade(grade));
+console.log(`Result: ${getGrade(grade)}`);
 console.log('**************************');
+
+// ********** End of Test **********

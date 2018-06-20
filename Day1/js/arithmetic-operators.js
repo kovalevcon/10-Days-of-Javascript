@@ -1,3 +1,5 @@
+// ********** Solution **********
+
 /**
  *   Calculate the area of a rectangle.
  *
@@ -23,7 +25,15 @@ function getPerimeter(length, width) {
   return 2 * (length + width);
 }
 
+// ********** End of Solution **********
+
+// ********** Test **********
+
+const valueArithmeticOpers = [3, 4.5];
+
 console.log('Task: Arithmetic Operators');
-console.log(getArea(3, 4.5));
-console.log(getPerimeter(3, 4.5));
+console.log('getArea = ' + getArea(...valueArithmeticOpers));
+console.log('getPerimeter = ' + getPerimeter(...valueArithmeticOpers));
 console.log('**************************');
+
+// ********** End of Test **********

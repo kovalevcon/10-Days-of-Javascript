@@ -1,3 +1,5 @@
+// ********** Solution **********
+
 /**
  *   Return the second largest number in the array.
  *   @param {Number[]} nums - An array of numbers.
@@ -20,8 +22,14 @@ function getSecondLargest(nums) {
   return second;
 }
 
+// ********** End of Solution **********
+
+// ********** Test **********
+
 const arrays = [2, 3, 6, 6, 5];
 console.log('Task: Arrays');
 console.log(`Input value:[${arrays}]`);
-console.log(getSecondLargest(arrays));
+console.log(`Result: ${getSecondLargest(arrays)}`);
 console.log('**************************');
+
+// ********** End of Test **********

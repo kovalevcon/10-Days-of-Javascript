@@ -1,3 +1,5 @@
+// ********** Solution **********
+
 function performOperation(secondInteger, secondDecimal, secondString) {
   // Declare a variable named 'firstInteger' and initialize with integer value 4.
   const firstInteger = 4;
@@ -21,8 +23,15 @@ function performOperation(secondInteger, secondDecimal, secondString) {
   console.log(firstString + secondString);
 }
 
+// ********** End of Solution **********
+
+// ********** Test **********
+
 const inputs = [12, 4.32, 'is the best place to learn and practice coding!'];
 console.log('Task: Data Types');
 console.log(`Input value: ${inputs}`);
+console.log('Result:');
 performOperation(...inputs);
 console.log('**************************');
+
+// ********** End of Test **********

@@ -1,3 +1,5 @@
+// ********** Solution **********
+
 /*
  * Complete the vowelsAndConsonants function.
  * Print your output using 'console.log()'.
@@ -17,8 +19,15 @@ function vowelsAndConsonants(s) {
   console.log(result.trim());
 }
 
+// ********** End of Solution **********
+
+// ********** Test **********
+
 const loopStr = 'javascriptloops';
 console.log('Task: Loops');
 console.log(`Input value:[${loopStr}]`);
+console.log('Result:');
 vowelsAndConsonants(loopStr);
 console.log('**************************');
+
+// ********** End of Test **********

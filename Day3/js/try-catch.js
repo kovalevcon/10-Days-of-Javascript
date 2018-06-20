@@ -1,3 +1,5 @@
+// ********** Solution **********
+
 /*
  * Complete the reverseString function
  * Use console.log() to print to stdout.
@@ -15,8 +17,15 @@ function reverseString(s) {
   }
 }
 
+// ********** End of Solution **********
+
+// ********** Test **********
+
 const number = "1234";
 console.log('Task: Try, Catch, and Finally');
 console.log(`Input value:[${number}]`);
+console.log('Result:');
 reverseString(number);
 console.log('**************************');
+
+// ********** End of Test **********

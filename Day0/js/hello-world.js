@@ -1,3 +1,5 @@
+// ********** Solution **********
+
 function greeting(parameterVariable) {
     // This line prints 'Hello, World!' to the console:
     console.log('Hello, World!');
@@ -6,8 +8,15 @@ function greeting(parameterVariable) {
     console.log(parameterVariable);
 }
 
+// ********** End of Solution **********
+
+// ********** Test **********
+
 const text = 'Welcome to 10 Days of JavaScript!';
 console.log('Task: Hello, World');
 console.log(`Input value: ${text}`);
+console.log('Result:');
 greeting(text);
 console.log('**************************');
+
+// ********** End of Test **********

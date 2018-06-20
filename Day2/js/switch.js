@@ -1,3 +1,5 @@
+// ********** Solution **********
+
 function getLetter(s) {
   let letter;
 
@@ -33,8 +35,14 @@ function getLetter(s) {
   return letter;
 }
 
+// ********** End of Solution **********
+
+// ********** Test **********
+
 const switchStr = 'adfgt';
 console.log('Task: Conditional Statements: Switch');
 console.log(`Input value:[${switchStr}]`);
-console.log(getLetter(switchStr));
+console.log(`Result: ${getLetter(switchStr)}`);
 console.log('**************************');
+
+// ********** End of Test **********
