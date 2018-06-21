@@ -31,4 +31,19 @@ that satisfy `o.x == o.y`.
 
 In `js/count-objects.js`.
 
+##Day 4: Classes
+
+**Task**:
+
+Create a `Polygon` class that has the following properties:
+
+* A constructor that takes an array of integer values describing the lengths of the polygon's sides.
+* A `perimeter()` method that returns the polygon's perimeter.
+
+Locked code in the editor tests the Polygon constructor and the perimeter method. 
+
+**Solution**:
+
+In `js/classes.js`.
+
 Return to [navigation list](/README.md "navigation list")
