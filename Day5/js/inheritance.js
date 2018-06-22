@@ -49,4 +49,6 @@ if (JSON.stringify(Object.getOwnPropertyNames(Square.prototype)) === JSON.string
   console.log(-1);
 }
 
+console.log('**************************');
+
 // ********** End of Test **********
