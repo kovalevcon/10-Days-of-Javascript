@@ -3,7 +3,7 @@
 To view solutions, open the file `/Day0/index.html` in your browser.
 Do not forget to open the Developer panel and see the section `Console`.
 
-##Day 0: Hello, World!
+## Day 0: Hello, World!
 
 **Task**:
 
@@ -22,7 +22,7 @@ Perform the following tasks to complete this challenge:
 
 In `js/hello-world.js`.
 
-##Day 0: Data Types
+## Day 0: Data Types
 
 **Task**:
 

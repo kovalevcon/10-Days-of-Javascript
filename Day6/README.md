@@ -3,7 +3,7 @@
 To view solutions, open the file `/Day6/index.html` in your browser.
 Do not forget to open the Developer panel and see the section `Console`.
 
-##Day 6: Bitwise Operators
+## Day 6: Bitwise Operators
 
 **Task**:
 
@@ -17,7 +17,7 @@ Complete the function in the editor so that given `n` and `k`, it returns the ma
 
 In `js/bitwise-operators.js`.
 
-##Day 6: JavaScript Dates
+## Day 6: JavaScript Dates
 
 **Task**:
 

@@ -2,7 +2,7 @@
 
 To view solutions, open the file `/Day9/index.html` in your browser.
 
-##Day 9: Binary Calculator
+## Day 9: Binary Calculator
 
 **Task**:
 

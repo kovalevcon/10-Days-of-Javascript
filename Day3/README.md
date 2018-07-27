@@ -3,7 +3,7 @@
 To view solutions, open the file `/Day3/index.html` in your browser.
 Do not forget to open the Developer panel and see the section `Console`.
 
-##Day 3: Arrays
+## Day 3: Arrays
 
 
 **Task**:
@@ -15,7 +15,7 @@ The function must find and return the second largest number in `nums`.
 
 In `js/arrays.js`.
 
-##Day 3: Try, Catch, and Finally
+## Day 3: Try, Catch, and Finally
 
 **Task**:
 
@@ -30,7 +30,7 @@ if an exception was thrown, this should be the original string.
 
 In `js/try-catch.js`.
 
-##Day 3: Throw
+## Day 3: Throw
 
 **Task**:
 

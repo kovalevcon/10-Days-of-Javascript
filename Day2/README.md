@@ -3,7 +3,7 @@
 To view solutions, open the file `/Day2/index.html` in your browser.
 Do not forget to open the Developer panel and see the section `Console`.
 
-##Day 2: Conditional Statements: If-Else
+## Day 2: Conditional Statements: If-Else
 
 **Task**:
 
@@ -20,7 +20,7 @@ Complete the getGrade(score) function in the editor. It has one parameter: an in
 
 In `js/if-else.js`.
 
-##Day 2: Conditional Statements: Switch
+## Day 2: Conditional Statements: Switch
 
 **Task**:
 
@@ -36,7 +36,7 @@ English alphabetic letters (i.e., a through `z`). It must return A, B, C, or D d
 
 In `js/switch.js`.
 
-##Day 2: Loops
+## Day 2: Loops
 
 **Task**:
 

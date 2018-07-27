@@ -2,7 +2,7 @@
 
 To view solutions, open the file `/Day8/index.html` in your browser.
 
-##Day 8: Create a Button
+## Day 8: Create a Button
 
 **Task**:
 
@@ -36,7 +36,7 @@ tag to provide the JS file path:
 
 In `index.html` and `js/button.js`.
 
-##Day 8: Buttons Container
+## Day 8: Buttons Container
 
 **Task**:
 

@@ -14,7 +14,7 @@ to view different solution.
  
 Do not forget to open the Developer panel and see the section `Console`.
 
-##Day 7: Regular Expressions I
+## Day 7: Regular Expressions I
 
 **Task**:
 
@@ -25,7 +25,7 @@ and ends with the same vowel. Recall that the English vowels are `a, e, i, o, an
 
 In `js/regexp-I.js`.
 
-##Day 7: Regular Expressions II
+## Day 7: Regular Expressions II
 
 **Task**:
 
@@ -41,7 +41,7 @@ and/or lowercase English alphabetic letters (i.e., `[a-z] and [A-Z]`).
 
 In `js/regexp-II.js`.
 
-##Day 7: Regular Expressions III
+## Day 7: Regular Expressions III
 
 **Task**:
 

@@ -3,7 +3,7 @@
 To view solutions, open the file `/Day4/index.html` in your browser.
 Do not forget to open the Developer panel and see the section `Console`.
 
-##Day 4: Create a Rectangle Object
+## Day 4: Create a Rectangle Object
 
 **Task**:
 
@@ -19,7 +19,7 @@ that has the following properties:
 
 In `js/rectangle-object.js`.
 
-##Day 4: Count Objects
+## Day 4: Count Objects
 
 **Task**:
 
@@ -31,7 +31,7 @@ that satisfy `o.x == o.y`.
 
 In `js/count-objects.js`.
 
-##Day 4: Classes
+## Day 4: Classes
 
 **Task**:
 

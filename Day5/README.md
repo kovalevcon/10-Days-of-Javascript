@@ -3,7 +3,7 @@
 To view solutions, open the file `/Day5/index.html` in your browser.
 Do not forget to open the Developer panel and see the section `Console`.
 
-##Day 5: Inheritance
+## Day 5: Inheritance
 
 **Task**:
 
@@ -21,7 +21,7 @@ Locked code in the editor tests the class and method implementations and prints 
 
 In `js/inheritance.js`.
 
-##Day 5: Template Literals
+## Day 5: Template Literals
 
 **Task**:
 
@@ -47,7 +47,7 @@ where `A` is the rectangle's area and `P` is its perimeter.
 
 In `js/template-literals.js`.
 
-##Day 5: Arrow Functions
+## Day 5: Arrow Functions
 
 **Task**:
 

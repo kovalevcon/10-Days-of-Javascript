@@ -3,7 +3,7 @@
 To view solutions, open the file `/Day1/index.html` in your browser.
 Do not forget to open the Developer panel and see the section `Console`.
 
-##Day 1: Arithmetic Operators
+## Day 1: Arithmetic Operators
 
 **Task**:
 
@@ -19,7 +19,7 @@ The values returned by these functions are printed to stdout by locked stub code
 
 In `js/arithmetic-operators.js`.
 
-##Day 1: Functions
+## Day 1: Functions
 
 **Task**:
 
@@ -30,7 +30,7 @@ It must return the value of `n!` (i.e., `n` factorial).
 
 In `js/functions.js`.
 
-##Day 1: Let and Const
+## Day 1: Let and Const
 
 **Task**:
 
